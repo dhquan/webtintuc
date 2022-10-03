@@ -173,3 +173,7 @@
 
 </body>
 </html>
+
+<?php
+echo 2;
+?>
