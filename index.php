@@ -194,9 +194,6 @@ echo 16;
 echo 17;
 echo 18;
 echo 19;
-<<<<<<< HEAD
-=======
 echo 20;
 echo 21;
->>>>>>> bc35a09... tinh nang moi 2
 ?>
